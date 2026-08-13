@@ -1,0 +1,2 @@
+# Real-Time-Sign-Language-Alphabet-Recognition-Using-Computer-Vision
+A real-time computer vision system that recognizes American Sign Language (ASL) alphabet gestures A–Z using a webcam. It uses MediaPipe Hands to extract and normalize 21 hand landmarks, a PyTorch neural network for gesture classification, and temporal smoothing with majority voting for stable predictions, along with live sentence building.
